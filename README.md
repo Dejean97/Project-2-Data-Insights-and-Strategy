@@ -1,5 +1,7 @@
 # Project 2: Data Insights and Strategy
 
+Analysing transactional and customer data to identify behaviour trends and define a customer segmentation to inform a future sales strategy using MySQL, Tableau & Powerpoint
+
 ## Resources Used
 MySQL Version: 8.0.22 build 107609 CE (64 bits)  
 Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
