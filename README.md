@@ -8,7 +8,7 @@ Analysing transactional and customer data to identify behaviour trends and defin
 
 ## Resources Used
 MySQL Version: 8.0.22 build 107609 CE (64 bits)  
-Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit
+Tableau Desktop Version: 2020.3.2 (20203.20.1018.2303) 64-bit  
 Powerpoint Version: 16.43 (20110804)
 
 
