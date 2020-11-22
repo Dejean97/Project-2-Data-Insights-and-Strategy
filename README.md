@@ -23,7 +23,7 @@ Their marketing team is looking to boost business by analysing their existing cu
 The below table details which fields failed each of the Standard Data Quality Dimensions for each table
 
 | Table Name      | Accuracy      |  Completeness  | Consistency | Currency  | Relevancy | Validity  | Uniqueness  |
-| ----------- | -----------        | ----------    |              |           |          |           |             |
+| ----------- | -----------        | ----------    |  ---------- | --------- | --------- | --------- | ----------- |
 | Customer Address  | Title       |                |              |           |          |           |             |
 | Customer Demographic  | Text     |               |              |           |          |           |             |
 | Transactions  |                  |               |              |           |          |           |             |
