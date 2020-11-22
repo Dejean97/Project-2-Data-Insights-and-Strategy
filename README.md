@@ -24,7 +24,7 @@ The below table details which fields failed each of the Standard Data Quality Di
 
 | Table Name      | Accuracy      |  Completeness  | Consistency | Currency  | Relevancy | Validity  | Uniqueness  |
 | ----------- | -----------        | ----------    |  ---------- | --------- | --------- | --------- | ----------- |
-| Customer Address  | Title       |                |              |           |          |           |             |
+| Customer Address  | Title       |                |              | deceased_indicator | default         |           |             |
 | Customer Demographic  | Text     |               |              |           |          |           |             |
 | Transactions  |  | online_order, brand, product_line, product_class, product_size, standard_cost, product_first_sold_date | product_id |           | order_status, profit (missing), customer_id |  list_price, product_first_sold_date |             |
 
