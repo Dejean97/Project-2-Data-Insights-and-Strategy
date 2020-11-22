@@ -20,11 +20,13 @@ Their marketing team is looking to boost business by analysing their existing cu
 
 ## Data Quality Assessment
 
-| Table Name      | Accuracy |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The below table details which fields failed each of the Standard Data Quality Dimensions for each table
 
+| Table Name      | Accuracy |  Completeness
+| ----------- | ----------- | ----------
+| Customer Address        | Title       |
+| Customer Demographic   | Text        |
+| Transactions           |              |
 
 ## Data Insights and Customer Segmentation
 
