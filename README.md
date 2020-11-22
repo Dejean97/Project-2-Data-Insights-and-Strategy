@@ -20,10 +20,10 @@ Their marketing team is looking to boost business by analysing their existing cu
 
 ## Data Quality Assessment
 
-|Dimension|
------------
-|Dataset|Accuracy|
-|Customer Address| |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 
 ## Data Insights and Customer Segmentation
