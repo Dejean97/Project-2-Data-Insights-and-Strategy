@@ -20,7 +20,7 @@ Their marketing team is looking to boost business by analysing their existing cu
 
 ## Data Quality Assessment
 
-| Syntax      | Description |
+| Table Name      | Accuracy |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
