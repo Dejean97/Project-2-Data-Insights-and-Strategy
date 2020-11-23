@@ -22,11 +22,11 @@ Their marketing team is looking to boost business by analysing their existing cu
 
 The below table details which fields failed each of the Standard Data Quality Dimensions for each table.
 
-| Table Name      | Accuracy      |  Completeness  | Consistency | Currency  | Relevancy | Validity  | Uniqueness  |
-| ----------- | -----------        | ----------    |  ---------- | --------- | --------- | --------- | ----------- |
-| Customer Address  | Title       |                |              |          |           |           |             |
-| Customer Demographic  | Text     |               |              | deceased_indicator | default |           |             |
-| Transactions  |  | online_order, brand, product_line, product_class, product_size, standard_cost, product_first_sold_date | product_id |           | order_status, profit (missing), customer_id |  list_price, product_first_sold_date |             |
+| Table Name            | Accuracy    |  Completeness  | Consistency | Currency  | Relevancy | Validity  | Uniqueness  |
+| -----------           | ----------- | ------------   |  ---------- | --------- | --------- | --------- | ----------- |
+| Customer Address      |             |                |             |           |           |           |             |
+| Customer Demographic  |             |                |             |           |           |           |             |
+| Transactions          |             |                |             |           |           |           |             |
 
 ## Data Insights and Customer Segmentation
 
