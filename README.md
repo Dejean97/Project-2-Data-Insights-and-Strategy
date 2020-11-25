@@ -2,7 +2,7 @@
 
 Analysing transactional and customer demoraphic data to identify behaviour trends and define a customer segmentation, informing a future sales strategy using MySQL, Tableau & Powerpoint
 
-*Please note inspiration and data for this project came from the KPMG Innovation and Digital Solutions virtual internship offered on [Forage](https://www.theforage.com)*
+*Please note, inspiration and data for this project came from the KPMG Innovation and Digital Solutions virtual internship offered on [Forage](https://www.theforage.com)*
 
 
 
