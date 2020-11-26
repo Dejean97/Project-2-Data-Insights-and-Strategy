@@ -26,8 +26,7 @@ The below table details which fields failed each of the Standard Data Quality Di
 | -----------           | ----------- | ------------   |  ---------- | --------- | --------- | --------- | ----------- |
 | Customer Address      |             |                |             |           | customer_id | states |             |
 | Customer Demographic  | DOB | DOB, last_name, job_title |             | deceased_indicator | default, age (missing) | gender |             |
-| Transactions          |             | online_order, brand, product_line, product_class, product_size, standard_cost, product_first_sold_date | product_id |           | order_status, customer_id, profit (missing)
- | list_price, product_first_sold_date |             |
+| Transactions          |             | online_order, brand, product_line, product_class, product_size, standard_cost, product_first_sold_date | product_id |           | order_status, customer_id, profit (missing) | list_price, product_first_sold_date |             |
 
 ## Data Insights and Customer Segmentation
 
