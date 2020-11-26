@@ -28,6 +28,8 @@ The below table details which fields failed each of the Standard Data Quality Di
 | Customer Demographic  | DOB | DOB, last_name, job_title |             | deceased_indicator | default, age (missing) | gender |             |
 | Transactions          |             | online_order, brand, product_line, product_class, product_size, standard_cost, product_first_sold_date | product_id |           | order_status, customer_id, profit (missing) | list_price, product_first_sold_date |             |
 
+The powerpoint presentation documenting this project has further details on the data quality issues, as well as recommendations on how to address these issues in the future and prior to analysis.
+
 ## Data Insights and Customer Segmentation
 
 ## Presentation of Insights and Strategy
