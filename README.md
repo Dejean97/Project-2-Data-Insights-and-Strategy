@@ -30,6 +30,8 @@ The below table details which fields failed each of the Standard Data Quality Di
 
 The powerpoint presentation documenting this project has further details on the data quality issues, as well as recommendations on how to address these issues in the future and prior to analysis.
 
+Geographical data (latitude and longitude) was also gathered for each postcode for geographical visualisation purposes.
+
 ## Data Insights and Customer Segmentation
 
 ## Presentation of Insights and Strategy
