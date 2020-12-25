@@ -32,6 +32,14 @@ The powerpoint presentation documenting this project has further details on the 
 
 Geographical data (latitude and longitude) was also gathered for each postcode for geographical visualisation purposes.
 
-## Data Insights and Customer Segmentation
+## Data Insights
+
+Each table was examined and summarised to gain an understanding of the data so far.
+
+## Customer Segmentation
+
+This project utilised RFM (Recency, Frequency & Monetary) analysis to develop the customer segmentation. This method assigns a 'value' to customers by examining how recently a customer has purchased (recency), how often they purchase (frequency), and how much the customer spends (monetary).
 
 ## Presentation of Insights and Strategy
+
+
